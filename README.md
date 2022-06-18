@@ -6,7 +6,7 @@
 
 ## （一）：
 
-https://github.com/Jxhao99/DATA620004/tree/cifar100
+
 
 ## （二）：Faster R-CNN
 
