@@ -2,7 +2,7 @@
 
 Vision Transfromer    https://arxiv.org/abs/2010.11929
 
-由于https://github.com/Jxhao99/DATA620004/tree/cifar100中选择作为baseline的wide_resnet的
+由于https://github.com/Jxhao99/DATA620004/tree/cifar100 中选择作为baseline的wide_resnet的
 
 参数量约为35M，所以选择ViT-B_16(85.8M)，两者约在同一数量级上，可以作为对比。如果需要其他
 
