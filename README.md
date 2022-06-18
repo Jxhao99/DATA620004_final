@@ -10,6 +10,8 @@ https://github.com/Jxhao99/DATA620004/tree/cifar100
 
 ## （二）：Faster R-CNN
 
-https://github.com/Jxhao99/DATA620004/tree/faster-rcnn
+https://github.com/Jxhao99/DATA620004_final/tree/Faster_RCNN
 
 ## （三）：Transformer
+
+https://github.com/Jxhao99/DATA620004_final/tree/ViT
